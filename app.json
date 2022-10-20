@@ -2,7 +2,7 @@
     "name": "ɴɪxᴀ ᴍᴜsɪᴄ ʙᴏᴛ",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Nixa", "NIXA-MUSIC-BOT", "music", "voice chat", "telegram", "Private Music"],
-    "repository": "https://github.com/Ajsites2324/NIXA-MUSIC-BOT",
+    "repository": "https://github.com/kassimdarlzzz/NIXA-MUSIC-BOT",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
